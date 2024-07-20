@@ -1,1 +1,2 @@
 First line in Local master
+Second line in file in local master
